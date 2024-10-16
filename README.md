@@ -50,3 +50,26 @@ You will need to have Python installed on your machine. You can download it [her
     ```
 
 4. Run the notebooks in the order of the numbering in their names.
+
+### Data
+
+Once you have installed the necessary dependencies, you can run the project and work with the provided data.
+
+The data required for the project can be found [Here](https://drive.google.com/drive/folders/1OTlH8BLThDNz2_YFmtk0xTr2xuT67Ll5?usp=drive_link). Make sure that you load the data from `./Data/` path when running the notebooks.
+
+For example, to load a file named `dataset.csv` located in the `Data` folder, you can use the following code:
+
+```python
+import pandas as pd
+
+# Load the dataset
+data_path = './Data/dataset.csv'
+data = pd.read_csv(data_path)
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+## Contact
+I'm open to any feedback, suggestions, or questions regarding the projects or the repository. Don't hesitate to contact me via email at milad.mtkh@gmail.com.
