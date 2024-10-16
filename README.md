@@ -10,7 +10,7 @@ A collection of data made from the following datasets extracted from [DATA.gov](
 * Demographic dataset
 
 ## Methods:
-* Data collection & preprocessing [Open Notebook](./1. Preprocessing.ipynb)
+* Data collection & preprocessing [Open Notebook](./1.Preprocessing.ipynb)
 * Web scraping and text mining: [Open Notebook](./2. News and Tweets Analysis.ipynb)
   - using different APIs to match articles and tweets with desired keywords
   - create word clouds and perform sentiment analysis
