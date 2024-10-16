@@ -69,7 +69,7 @@ data = pd.read_csv(data_path)
 
 ## Refinement
 
-This repository is an improved and more organized version of [our original project repository]([https://github.com/MiladMt11/original-repo](https://github.com/MiladMt11/ABA-Spring2023.git)). 
+This repository is an improved and more organized version of [our original project repository](https://github.com/MiladMt11/ABA-Spring2023). 
 
 ### Improvements:
 - Code has been refactored for better readability and maintainability.
