@@ -1,4 +1,4 @@
-# Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases
+# Investigating The Impacts of Air Pollution on Cancer Cases
 
 ## Objective:
 The objective of this project is to provide an illustrative analysis to hypothetical authorities in US to have the opportunity to prioritize environmental policies and implement effective measures to address air pollution and its impact on health. This analysis was done by investigating the causal effects between different pollutants, demographic data, and the number of Melanoma cancer incidents in a specific population.
