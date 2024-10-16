@@ -9,15 +9,15 @@ A collection of data made from the following datasets extracted from [DATA.gov](
 * Chronic disease indicator dataset
 * Demographic dataset
 
-## Methods:
-* Data collection & preprocessing [1. Preprocessing](https://github.com/MiladMt11/Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases/blob/9d3470a39f04b5059e2692afca616679485a5d2f/1.%20Preprocessing.ipynb)
-* Web scraping and text mining: [2. News and Tweets Analysis](https://github.com/MiladMt11/Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases/blob/940f072729e2f6579bea846be6714cfd13f61874/2.%20News%20and%20Tweets%20Analysis.ipynb)
+## Project Structure and File Descriptions:
+* Data collection & preprocessing [1. Preprocessing.ipynb](https://github.com/MiladMt11/Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases/blob/9d3470a39f04b5059e2692afca616679485a5d2f/1.%20Preprocessing.ipynb)
+* Web scraping and text mining: [2. News and Tweets Analysis.ipynb](https://github.com/MiladMt11/Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases/blob/940f072729e2f6579bea846be6714cfd13f61874/2.%20News%20and%20Tweets%20Analysis.ipynb)
   - using different APIs to match articles and tweets with desired keywords
   - create word clouds and perform sentiment analysis
-* Perform exploratory analysis of the data [3. Exploratory Analysis](https://github.com/MiladMt11/Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases/blob/940f072729e2f6579bea846be6714cfd13f61874/3.%20Exploratory%20Analysis.ipynb)
+* Perform exploratory analysis of the data [3. Exploratory Analysis.ipynb](https://github.com/MiladMt11/Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases/blob/940f072729e2f6579bea846be6714cfd13f61874/3.%20Exploratory%20Analysis.ipynb)
 * Predict the rate of cancer occurrences for the two coming years based on historical data:
-  - developing an [ARIMA](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average) model to create a baseline model [4. Arima Baseline Model](https://github.com/MiladMt11/Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases/blob/940f072729e2f6579bea846be6714cfd13f61874/4.%20Arima%20Baseline%20Model.ipynb)
-  - developing an RNN deep learning model as the predictor [5. Forecasting with RNN](https://github.com/MiladMt11/Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases/blob/940f072729e2f6579bea846be6714cfd13f61874/5.%20Forecasting%20with%20RNN.ipynb)
+  - developing an [ARIMA](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average) model to create a baseline model [4. Arima Baseline Model.ipynb](https://github.com/MiladMt11/Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases/blob/940f072729e2f6579bea846be6714cfd13f61874/4.%20Arima%20Baseline%20Model.ipynb)
+  - developing an RNN deep learning model as the predictor [5. Forecasting with RNN.ipynb](https://github.com/MiladMt11/Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases/blob/940f072729e2f6579bea846be6714cfd13f61874/5.%20Forecasting%20with%20RNN.ipynb)
   - performing explainable AI analysis to understand the different feature effects using [SHAP](https://shap.readthedocs.io/en/latest/)
 * Analyze the final results and provide insights [6. Result Analysis.ipynb](https://github.com/MiladMt11/Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases/blob/940f072729e2f6579bea846be6714cfd13f61874/4.%20Arima%20Baseline%20Model.ipynb)
 
