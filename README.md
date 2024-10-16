@@ -20,3 +20,33 @@ A collection of data made from the following datasets extracted from [DATA.gov](
   - developing an RNN deep learning model as the predictor [5. Forecasting with RNN](https://github.com/MiladMt11/Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases/blob/940f072729e2f6579bea846be6714cfd13f61874/5.%20Forecasting%20with%20RNN.ipynb)
   - performing explainable AI analysis to understand the different feature effects using [SHAP](https://shap.readthedocs.io/en/latest/)
 * Analyze the final results and provide insights [6. Result Analysis.ipynb](https://github.com/MiladMt11/Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases/blob/940f072729e2f6579bea846be6714cfd13f61874/4.%20Arima%20Baseline%20Model.ipynb)
+
+## Installation
+
+Follow these steps to set up the project locally.
+
+### Prerequisites
+
+You will need to have Python installed on your machine. You can download it [here](https://www.python.org/downloads/).
+
+### Install
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/MiladMt11/Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases
+    ```
+
+3. Install the required Python packages using `pip`:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Run the notebooks in the order of the numbering in their names.
