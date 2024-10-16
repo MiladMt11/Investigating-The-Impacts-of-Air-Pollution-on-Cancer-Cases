@@ -67,6 +67,15 @@ data_path = './Data/dataset.csv'
 data = pd.read_csv(data_path)
 ```
 
+## Refinement
+
+This repository is an improved and more organized version of [our original project repository]([https://github.com/MiladMt11/original-repo](https://github.com/MiladMt11/ABA-Spring2023.git)). 
+
+### Improvements:
+- Code has been refactored for better readability and maintainability.
+- Documentation has been enhanced.
+- Unnecessary files have been removed, and the folder structure has been cleaned up.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
