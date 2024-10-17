@@ -16,10 +16,16 @@ A collection of data made from the following datasets extracted from [DATA.gov](
   - create word clouds and perform sentiment analysis
 * Perform exploratory analysis of the data [3. Exploratory Analysis.ipynb](https://github.com/MiladMt11/Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases/blob/940f072729e2f6579bea846be6714cfd13f61874/3.%20Exploratory%20Analysis.ipynb)
 * Predict the rate of cancer occurrences for the two coming years based on historical data:
-  - developing an [ARIMA](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average) model to create a baseline model [4. Arima Baseline Model.ipynb](https://github.com/MiladMt11/Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases/blob/940f072729e2f6579bea846be6714cfd13f61874/4.%20Arima%20Baseline%20Model.ipynb)
+  - developing an [ARIMA](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average) model to create a baseline model for time series analysis [4. Arima Baseline Model.ipynb](https://github.com/MiladMt11/Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases/blob/940f072729e2f6579bea846be6714cfd13f61874/4.%20Arima%20Baseline%20Model.ipynb)
   - developing an RNN deep learning model as the predictor [5. Forecasting with RNN.ipynb](https://github.com/MiladMt11/Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases/blob/940f072729e2f6579bea846be6714cfd13f61874/5.%20Forecasting%20with%20RNN.ipynb)
   - performing explainable AI analysis to understand the different feature effects using [SHAP](https://shap.readthedocs.io/en/latest/)
 * Analyze the final results and provide insights [6. Result Analysis.ipynb](https://github.com/MiladMt11/Investigating-The-Impacts-of-Air-Pollution-on-Cancer-Cases/blob/940f072729e2f6579bea846be6714cfd13f61874/4.%20Arima%20Baseline%20Model.ipynb)
+
+## Framework & Packages:
+* [Scikit-learn](https://scikit-learn.org/stable/index.html)
+* [Tensorflow](https://www.tensorflow.org/)
+* [pmdarima](https://pypi.org/project/pmdarima/)
+* [SHAP](https://shap.readthedocs.io/en/latest/index.html)
 
 ## Installation
 
@@ -81,4 +87,4 @@ This repository is an improved and more organized version of [our original proje
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Contact
-I'm open to any feedback, suggestions, or questions regarding the projects or the repository. Don't hesitate to contact me via email at milad.mtkh@gmail.com.
+We're open to any feedback, suggestions, or questions regarding the projects or the repository. Don't hesitate to contact via email at milad.mtkh@gmail.com.
